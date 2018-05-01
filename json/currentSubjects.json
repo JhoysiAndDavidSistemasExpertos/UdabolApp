@@ -1,0 +1,53 @@
+//4251000 miguel manzana
+//INI ASIGNATURAS ACTUALES
+{
+    "currentSubjects": {
+        "title": "Asignaturas Actuales",
+        "group": "Grupo",
+        "teacher": "Docente",
+        "moreInfo": "Mas informacion",
+        "icon": "www.icon.com",
+        "sections": [
+            {
+                "schedules": {
+                    "title": "Horarios",
+                    "student": "Estudiante",
+                    "career": "Carrera",
+                    "subject": "Materia",
+                    "teacher": "Docente",
+                    "table": {
+                        "day": "Dia",
+                        "month": "Mes",
+                        "year": "Año"
+                    }
+                }
+            },
+            {
+                "notes": {
+                    "title": "Notes",
+                    "student": "Estudiante",
+                    "career": "Carrera",
+                    "subject": "Materia",
+                    "teacher": "Docente",
+                    "table": {
+                        "day": "Dia",
+                        "month": "Mes",
+                        "year": "Año"
+                    }
+                }
+            },
+            {
+                "assistance": {
+                    "title": "Asistencia",
+                    "student": "Estudiante",
+                    "career": "Carrera",
+                    "subject": "Materia",
+                    "teacher": "Docente",
+                    "assisted": "Asistido",
+                    "absent": "Ausente",
+                    "total": "Total"
+                }
+            }
+        ]
+    }
+}

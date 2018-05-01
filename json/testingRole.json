@@ -1,0 +1,13 @@
+{
+    "testingRole":{
+        "title":"Rol de examenes",
+        "student":"Estudiante",
+        "career":"Carrera",
+        "table":{
+            "subject":"Materia",
+            "oneTest":"1er Parcial",
+            "twoTest":"2do Parcial",
+            "threeTest":"3er Parcial"
+        }
+    }
+}

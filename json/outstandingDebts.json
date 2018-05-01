@@ -1,0 +1,12 @@
+{
+    "outstandingDebts":{
+        "title":"Deudas Pendientes",
+        "career":"Carrera",
+        "student":"Estudiante",
+        "table":{
+            "management":"Gestion",
+            "tariff":"Arancel",
+            "amount":"Monto"
+        }
+    }
+}

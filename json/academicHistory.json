@@ -1,0 +1,33 @@
+{
+    "academicHistory":{
+        "title":"Historial Academico",
+        "career":"Carrera",
+        "student":"Estudiante",
+        "averageWithoutAbandonments":"Promedio General(Sin Abandonos):",
+        "totalApproved":"Total Aprobadas:",
+        "approvedAverage":"Promedio Solo Aprobadas:",
+        "totalFailed":"Total Reprobadas",
+        "totalApproved":"Total Aprobadas:",
+        "table":{
+            "amount":"Monto"
+        }
+    }
+}
+
+Promedio General(Sin Abandonos): 67.79  Total Aprobadas: 51 
+Promedio Solo Aprobadas: 71.24 	Total Reprobadas: 5 
+Promedio con Abandonos: 67.79 	Total Abandonos: 0 
+
+
+
+- interfaces  arni                     jueves: 4 
+- json jhose
+- documento 
+        - documento exposicion
+        - documento demostrativo
+            - requisitos
+
+
+        davidgjordancbba
+        jhoysi939
+ 
