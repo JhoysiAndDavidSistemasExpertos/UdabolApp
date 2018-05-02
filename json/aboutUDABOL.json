@@ -1,0 +1,121 @@
+{
+    "aboutUDABOL": {
+        "title": "Acerca de UDABOL",
+        "icon": "www.icon.com",        
+        "image": "www.image.com",        
+        "moreInfo": "Mas Informacion",
+        "sections": [
+            {
+                "missionAndVision": {
+                    "title": "Mision y Vision",
+                    "icon": "www.icon",
+                    "image": "www.image",                    
+                    "mission": "Mision",
+                    // "messageMision": "Desarrollar la educación superior universitaria con 
+                    // calidad y competitividad al servicio de la sociedad”, 
+                    // formando hombres y mujeres con una mentalidad 
+                    // nueva, dispuestos a asumir el papel de líderes 
+                    // competitivos, ávidos por el conocimiento, la verdad 
+                    // científica, la aplicación social de la técnica, la 
+                    // defensa de la libertad y la transformación de la 
+                    // sociedad, en base a sólidos valores humanos.",
+                    "vision": "Vision"
+                    // "messageVision": "“Ser la universidad líder en calidad educativa”, 
+                    // como un compromiso ineludible con la sociedad, 
+                    // donde la producción y construcción del 
+                    // conocimiento acoge al ser humano, lo proyecta en 
+                    // un intelecto pleno y promueve el crecimiento de su 
+                    // alma."
+                }
+            },
+            {
+                "ourCareers": {
+                    "title": "Nuestras Carreras",
+                    "icon": "www.icon",
+                    "cbba": "Cochabamba",
+                    "laPaz": "La Paz",
+                    "oruro": "Oruro",
+                    "staCrz": "Santa Cruz",
+                    "seeMore": "Ver Mas",
+                    "sections": [
+                        {
+                            "career":{
+                                "misionAndVision": "Mision y Vision",                                
+                                "icon": "www.icon",
+                                "image": "www.img",
+                                "vision": "Vision",
+                                "messageVision": "“Ser la carrera líder en formación de 
+                                profesionales altamente competitivos en la 
+                                concepción, diseño y construcción de un 
+                                hábitat noble y armónico entre la humanidad 
+                                y la naturaleza. Aplicando la ciencia, las artes, 
+                                la tecnología a través de la docencia, la 
+                                investigacíon y la extensión de la comunidad 
+                                universitaria a la sociedad”.
+                                ",
+                                "mision": "Mision",
+                                "messageMision": "Formar profesionales en el campo de las 
+                                ciencias del Hábitat a través de la 
+                                construcción del conocimiento; 
+                                desarrollando el potencial y las 
+                                competencias, conocimientos, habilidades, 
+                                actitudes, aptitudes, destrezas, dones y 
+                                talentos de los estudiantes."
+                            }
+                        },
+                        {
+                            "registrationRequirements":{
+                                "title": "Requisitos de Inscripcion",
+                                "icon": "www.icon",
+                                "messageRequirements": "Los documentos exigidos para Estudiantes bolivianos y extranjeros:
+                                Certificado de nacimiento original (para estudiantes extranjeros, original o fotocopia debidamente legalizada)
+                                Fotocopia del Diploma de Bachiller debidamente legalizado. En tanto se tramita el Diploma, se aceptará provisionalmente por el tiempo improrrogable de seis meses la fotocopia de la libreta de calificaciones de 4to medio o su equivalente y boleta de trámite del diploma
+                                Dos fotografías 4 x 4 (fondo verde)
+                                Una foto 4×4 fondo rojo
+                                Fotocopia de la Cédula de Identidad vigente (para extranjeros, fotocopia de la cédula de residente o fotocopia del pasaporte con visa vigente)"
+                            }
+                        },
+                        {
+                            "pensum":{
+                                "title": "Pensum",
+                                "icon": "www.icon",
+                                "firstSemester": "1er Semestre",
+                                "seconfSemester": "2do Semestre",
+                                "thirdSemester": "3er Semestre",
+                                "fourthSemester": "4to Semestre",
+                                "fifthSemester": "5to Semestre",
+                                "sixthSemester": "6to Semestre",
+                                "seventhSemester": "7mo Semestre",
+                                "eighthSemester": "8vo Semestre",
+                                "nineSemester": "9no Semestre",
+                                "tenSemester": "10mo Semestre",
+                                "downloadPensum": "DescargarPensum"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "eventsAndCongresses": {
+                    "title": "Eventos y Congresos",
+                    "icon": "www.icon"
+                    //"image": "www.img"
+                }
+            },
+            {
+                "acknowledgments": {
+                    "title": "Reconocimientos",
+                    "icon": "www.icon",
+                    "image": "www.img"
+                }
+            },
+            {
+                "universityHospital": {
+                    "title": "Hospital Universitario",
+                    "icon": "www.icon",
+                    "image": "www.img"
+                }
+            }
+        ]
+    }
+}

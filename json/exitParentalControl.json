@@ -1,0 +1,11 @@
+{
+    "exitParentalControl":{
+        "title":"Salir de Control de Padres",
+        "icon": "www.icon.com",                       
+        "popUpText": "Esta seguro que desea salir de Control de Padres?", 
+        "accept": "Aceptar",
+        "iconAccept": "www.icon.com",
+        "cancel": "Cancelar",
+        "iconCancel": "www.icon.com"
+    }
+}

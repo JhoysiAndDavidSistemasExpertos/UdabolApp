@@ -4,9 +4,14 @@
     "currentSubjects": {
         "title": "Asignaturas Actuales",
         "group": "Grupo",
+        "iconGroup": "www.icon.com",
         "teacher": "Docente",
+        "iconTeacher": "www.icon.com",
+        "iconSubject": "www.icon.com",
+        "iconExclamationMark": "www.icon.com",
         "moreInfo": "Mas informacion",
         "icon": "www.icon.com",
+        "downloadSchedule": "Descargar Horario Completo",
         "sections": [
             {
                 "schedules": {
@@ -17,22 +22,25 @@
                     "teacher": "Docente",
                     "table": {
                         "day": "Dia",
-                        "month": "Mes",
-                        "year": "Año"
+                        "hour": "Hora",
+                        "classroom": "Aula"
                     }
                 }
             },
             {
                 "notes": {
-                    "title": "Notes",
+                    "title": "Notas",
                     "student": "Estudiante",
                     "career": "Carrera",
                     "subject": "Materia",
                     "teacher": "Docente",
                     "table": {
-                        "day": "Dia",
-                        "month": "Mes",
-                        "year": "Año"
+                        "firstPartial": "1er Parcial",
+                        "secondPartial": "2do Parcial",
+                        "thirdPartial": "3er Parcial",
+                        "secondInstance": "2da Instancia",
+                        "finalNote": "Nota Final",
+                        "state": "Estado"
                     }
                 }
             },
@@ -45,7 +53,9 @@
                     "teacher": "Docente",
                     "assisted": "Asistido",
                     "absent": "Ausente",
-                    "total": "Total"
+                    "total": "Total",
+                    "iconCheck": "www.icon.com",
+                    "iconError": "www.icon.com"
                 }
             }
         ]

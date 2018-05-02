@@ -1,0 +1,13 @@
+{
+    "contactUs":{
+        "title":"Contactenos",
+        "icon": "www.icon",
+        "card":{
+            "address": "Direccion",
+            "phone": "Telefono",
+            "Email": "Email",
+            "iconCall": "www.icon.com",
+            "iconEmail": "www.icon.com"
+        }
+    }
+}
