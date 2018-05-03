@@ -1,0 +1,10 @@
+{
+    "enterParentalControl":{
+        "title": "Ingresar a Control de Padres",                       
+        "icon": "www.icon.com",                       
+        "iconUDABOL": "www.icon.com",                       
+        "email": "Correo",                       
+        "password": "Contraseña",                       
+        "enter": "Ingresar"
+    }
+}

@@ -1,8 +1,10 @@
 {
     "testingRole":{
         "title":"Rol de examenes",
+        "icon": "www.icon",
         "student":"Estudiante",
         "career":"Carrera",
+        "downloadTestingRole":"Descargar Rol de Examenes",
         "table":{
             "subject":"Materia",
             "oneTest":"1er Parcial",

@@ -1,0 +1,14 @@
+{
+    "bugReport":{
+        "title":"Reportar Bug o Sugerencia",
+        "subTitle": "Por favor deje su reporte",        
+        "name": "Nombre:",        
+        "email": "Correo:",        
+        "message": "Mensaje:",
+        "send": "Enviar",                        
+        "popUpText": "Gracias por su sugerencia!
+        Trabajamos para brindarle 
+        un mejor servicio.", 
+        "accept": "Aceptar"                               
+    }
+}

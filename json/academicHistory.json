@@ -1,22 +1,24 @@
 {
     "academicHistory":{
         "title":"Historial Academico",
-        "career":"Carrera",
-        "student":"Estudiante",
+        "icon": "www.icon",
         "averageWithoutAbandonments":"Promedio General(Sin Abandonos):",
         "totalApproved":"Total Aprobadas:",
         "approvedAverage":"Promedio Solo Aprobadas:",
         "totalFailed":"Total Reprobadas",
-        "totalApproved":"Total Aprobadas:",
+        "averageWithDropouts":"Promedio Con Abandonos:",
+        "totalAbandons":"Total Abandonos:",        
         "table":{
-            "amount":"Monto"
+            "level":"Nivel",
+            "firstPartial":"1Par.",
+            "secondPartial":"2Par.",
+            "thirdPartial":"3Par.",
+            "average":"Prom.",
+            "secondInstance":"Seg.",
+            "finalNote":"N. Final"
         }
     }
 }
-
-Promedio General(Sin Abandonos): 67.79  Total Aprobadas: 51 
-Promedio Solo Aprobadas: 71.24 	Total Reprobadas: 5 
-Promedio con Abandonos: 67.79 	Total Abandonos: 0 
 
 
 

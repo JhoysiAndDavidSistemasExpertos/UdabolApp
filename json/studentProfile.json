@@ -1,0 +1,29 @@
+{
+    "studentProfile":{
+        "title":"Perfil del Estudiante",
+        "icon": "www.icon",
+        "message":"Actualmente el estudiante se encuentra en:",
+        "gestion":"Gestion:",
+        "year":"Año:",              
+        "table":{
+            "personalInformation":"Datos Personales",
+            "student":"Estudiante:",
+            "document":"Documento:",
+            "typeOfDocument":"Tipo de Documento:",
+            "names":"Nombres:",
+            "firstSurname":"Primer Apellido:",  
+            "secondSurname":"Segundo Apellido:", 
+            "gender":"Genero:",       
+            "nationality":"Nacionalidad:",       
+            "maritalStatus":"Estado Civil:",       
+            "googleAppsAccount":"Cuenta de Google Apps",       
+            "corporateEmail":"Correo Corporativo:",       
+            "temporaryPassword":"Contraseña Temporal:",       
+            "contactInformation":"Informacion de Contacto",       
+            "personalEmail":"Correo Personal:",       
+            "address":"Direccion:",       
+            "phone":"Telefono:",       
+            "cellPhone":"Celular:"
+        }
+    }
+}
