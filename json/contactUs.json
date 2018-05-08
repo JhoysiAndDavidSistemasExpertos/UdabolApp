@@ -1,7 +1,5 @@
 {
     "contactUs":{
-        "title":"Contactenos",
-        "icon": "www.icon",
         "card":{
             "address": "Direccion",
             "phone": "Telefono",

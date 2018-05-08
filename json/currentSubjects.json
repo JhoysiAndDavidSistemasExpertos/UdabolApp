@@ -2,7 +2,6 @@
 //INI ASIGNATURAS ACTUALES
 {
     "currentSubjects": {
-        "title": "Asignaturas Actuales",
         "group": "Grupo",
         "iconGroup": "www.icon.com",
         "teacher": "Docente",
@@ -10,7 +9,6 @@
         "iconSubject": "www.icon.com",
         "iconExclamationMark": "www.icon.com",
         "moreInfo": "Mas informacion",
-        "icon": "www.icon.com",
         "downloadSchedule": "Descargar Horario Completo",
         "sections": [
             {

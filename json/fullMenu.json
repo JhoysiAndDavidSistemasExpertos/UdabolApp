@@ -1,0 +1,71 @@
+{
+    "fullMenu": {
+        "buttons":[
+            {
+                "currentSubjects": {
+                    "title": "Asignaturas Actuales",
+                    "icon": "www.icon.com"
+                }
+            },
+            {
+                "outstandingDebts": {
+                    "title":"Deudas Pendientes",
+                    "icon": "www.icon"
+                }
+            },
+            {
+                "testingRole": {
+                    "title":"Rol de examenes",
+                    "icon": "www.icon"
+                }
+            },
+            {
+                "academicHistory": {
+                    "title":"Historial Academico",
+                    "icon": "www.icon"
+                }
+            },
+            {
+                "documentationStatus": {
+                    "title":"Estado de Documentacion",
+                    "icon": "www.icon.com"
+                }
+            },
+            {
+                "studentProfile": {
+                    "title":"Perfil del Estudiante",
+                    "icon": "www.icon"
+                }
+            },
+            {
+                "aboutUDABOL": {
+                    "title": "Acerca de UDABOL",
+                    "icon": "www.icon.com"
+                }
+            },
+            {
+                "contactUs": {
+                    "title":"Contactenos",
+                    "icon": "www.icon"
+                }
+            },
+            {
+                "exitParentalControl": {
+                    "title":"Salir de Control de Padres",
+                    "icon": "www.icon.com"      
+                }
+            },
+            {
+                "enterParentalControl": {
+                    "title": "Ingresar a Control de Padres",                       
+                    "icon": "www.icon.com"   
+                }
+            },
+            {
+                "bugReport": {
+                    "title":"Reportar Bug o Sugerencia"
+                }
+            }
+        ]
+    }
+}

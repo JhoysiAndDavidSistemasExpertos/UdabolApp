@@ -1,6 +1,5 @@
 {
     "bugReport":{
-        "title":"Reportar Bug o Sugerencia",
         "subTitle": "Por favor deje su reporte",        
         "name": "Nombre:",        
         "email": "Correo:",        

@@ -1,7 +1,5 @@
 {
     "studentProfile":{
-        "title":"Perfil del Estudiante",
-        "icon": "www.icon",
         "message":"Actualmente el estudiante se encuentra en:",
         "gestion":"Gestion:",
         "year":"Año:",              

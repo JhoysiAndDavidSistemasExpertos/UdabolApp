@@ -1,7 +1,5 @@
 {
-    "aboutUDABOL": {
-        "title": "Acerca de UDABOL",
-        "icon": "www.icon.com",        
+    "aboutUDABOL": {   
         "image": "www.image.com",        
         "moreInfo": "Mas Informacion",
         "sections": [
@@ -10,22 +8,10 @@
                     "title": "Mision y Vision",
                     "icon": "www.icon",
                     "image": "www.image",                    
-                    "mission": "Mision",
-                    // "messageMision": "Desarrollar la educación superior universitaria con 
-                    // calidad y competitividad al servicio de la sociedad”, 
-                    // formando hombres y mujeres con una mentalidad 
-                    // nueva, dispuestos a asumir el papel de líderes 
-                    // competitivos, ávidos por el conocimiento, la verdad 
-                    // científica, la aplicación social de la técnica, la 
-                    // defensa de la libertad y la transformación de la 
-                    // sociedad, en base a sólidos valores humanos.",
-                    "vision": "Vision"
-                    // "messageVision": "“Ser la universidad líder en calidad educativa”, 
-                    // como un compromiso ineludible con la sociedad, 
-                    // donde la producción y construcción del 
-                    // conocimiento acoge al ser humano, lo proyecta en 
-                    // un intelecto pleno y promueve el crecimiento de su 
-                    // alma."
+                    "titleMission": "Mision",
+                    "messageMision": "Desarrollar la educación superior",
+                    "titleVision": "Vision",
+                    "messageVision": "Ser la universidad líder en calidad educativa"                     
                 }
             },
             {

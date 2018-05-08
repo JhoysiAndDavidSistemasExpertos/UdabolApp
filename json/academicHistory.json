@@ -1,7 +1,5 @@
 {
     "academicHistory":{
-        "title":"Historial Academico",
-        "icon": "www.icon",
         "averageWithoutAbandonments":"Promedio General(Sin Abandonos):",
         "totalApproved":"Total Aprobadas:",
         "approvedAverage":"Promedio Solo Aprobadas:",

@@ -1,7 +1,5 @@
 {
     "outstandingDebts":{
-        "title":"Deudas Pendientes",
-        "icon": "www.icon",
         "career":"Carrera",
         "student":"Estudiante",
         "table":{
